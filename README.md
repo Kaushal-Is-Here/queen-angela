@@ -27,11 +27,11 @@ Don't forget to give it a star  🌟
 <img src=https://i.imgur.com/wvTMw09.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/zim-bot"><title="Author"img src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Kaushal-Is-Here"><title="Author"img src="https://img.shields.io/badge/Author-Kaushal-Is-Here/Kaushal-Is-Here?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
+Project created by <a href="https://github.com/Kaushal-Is-Here">DripsMemes</a> to make it public
     <br>
        | © |
         Reserved |
@@ -64,16 +64,16 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 ----
 
   <p align="center">
-  <a href="https://github.com/zim-bot/queen-angela">
+  <a href="https://github.com/Kaushal-Is-Here/queen-angela">
     
-<a href="https://github.com/zim-bot/followers">
-<img src="https://img.shields.io/github/repo-size/zim-bot/queen-angela?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Kaushal-Is-Here/followers">
+<img src="https://img.shields.io/github/repo-size/Kaushal-Is-Here/queen-angela?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/zim-bot/followers"
+<a href="https://github.com/Kaushal-Is-Here/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/queen-angela/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zim-bot/queen-angela?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/queen-angela/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zim-bot/queen-angela?color=blue&style=flat-square"></a>
-<a href="https://github.com/zim-bot/queen-angela/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zim-bot/queen-angela?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kaushal-Is-Here/queen-angela/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaushal-Is-Here/queen-angela?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kaushal-Is-Here/queen-angela/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kaushal-Is-Here/queen-angela?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kaushal-Is-Here/queen-angela/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kaushal-Is-Here/queen-angela?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## DRIPS MEMES
